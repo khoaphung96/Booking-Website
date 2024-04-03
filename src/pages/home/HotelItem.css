@@ -1,0 +1,21 @@
+.hotel-item__image {
+  border-radius: 10px;
+  display: block;
+}
+
+.hotel-item__city {
+  font-weight: lighter;
+}
+
+.hotel-item__rate {
+  background-color: rgb(0, 149, 255);
+  color: white;
+  display: inline;
+}
+
+.hotel-item__type {
+  display: inline;
+  font-size: 13px;
+  margin-left: 10px;
+  font-weight: 500;
+}

@@ -1,0 +1,93 @@
+.search-list-item {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  gap: 20px;
+}
+
+.search-list-item__name {
+  color: rgb(0, 149, 255);
+}
+
+.search-list-item__distance {
+  font-size: 13px;
+}
+
+.search-list-item__tag {
+  font-size: 13px;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+  display: inline-block;
+}
+
+.search-list-item__des {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.search-list-item__type {
+  font-size: 13px;
+}
+
+.search-list-item__cancel1 {
+  color: green;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.search-flex-item__des * {
+  margin-bottom: 10px;
+}
+
+.search-list-item__cancel2 {
+  color: green;
+  font-size: 13px;
+  margin: 0px;
+}
+
+.search-flex-item__des {
+  width: 326px;
+}
+
+.search-flex-item__price {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.search-flex-item__price-rate {
+  display: flex;
+  justify-content: space-between;
+}
+
+.search-flex-item__price-price {
+  text-align: right;
+}
+
+.search-list-item__rateText {
+  font-weight: bold;
+}
+
+.search-list-item__rate {
+  background-color: rgb(0, 149, 255);
+  color: white;
+}
+
+.search-list-item__priceDes {
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.search-list-item__btn {
+  background-color: rgb(0, 149, 255);
+  border: none;
+  color: white;
+  width: 130px;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 5px;
+}

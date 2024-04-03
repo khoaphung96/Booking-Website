@@ -1,0 +1,67 @@
+.header-form {
+  display: flex;
+  color: black;
+  background-color: white;
+  position: absolute;
+  bottom: 0px;
+  transform: translateY(50%);
+  border: 3px solid orange;
+  border-radius: 10px;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  width: 797px;
+  gap: 20px;
+  padding: 0 30px;
+}
+
+.header-form-item__input {
+  margin-left: 5px;
+  border: none;
+}
+
+.header-form-item__btn {
+  background-color: rgb(0, 149, 255);
+  padding: 7px;
+  border: none;
+  color: white;
+}
+
+.date {
+  position: absolute;
+}
+
+.date-range {
+  position: relative;
+}
+
+/* .isOpen {
+  display: block;
+}
+
+.isClose {
+  display: none;
+} */
+
+/* .rdrDateDisplay {
+  padding: 5px;
+  display: flex;
+  gap: 5px;
+  background-color: rgb(128, 128, 128, 0.5);
+}
+
+.rdrMonthAndYearWrapper {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(128, 128, 128, 0.5);
+}
+
+.rdrWeekDays,
+.rdrDays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.rdrMonth {
+  background-color: rgb(128, 128, 128, 0.5);
+} */

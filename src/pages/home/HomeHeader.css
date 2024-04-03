@@ -1,0 +1,9 @@
+/* .home-header {
+  padding: 0 200px;
+  background-color: blue;
+  color: white;
+} */
+
+.home-header {
+  z-index: 0;
+}

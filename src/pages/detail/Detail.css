@@ -1,0 +1,77 @@
+.detail {
+  margin: 0 100px;
+  margin-top: 20px;
+}
+
+.detail * {
+  margin-bottom: 10px;
+}
+
+.image-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-bottom: 40px;
+}
+
+.image-group * {
+  margin-bottom: 0;
+}
+
+.flex-group {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-item__price {
+  width: 210px;
+}
+
+.flex-item__des {
+  width: 800px;
+}
+
+.detail-address__icon,
+.detail-address__address {
+  display: inline;
+  margin: 0;
+  margin-right: 10px;
+}
+
+.detail__distance {
+  color: blue;
+  font-weight: 600;
+}
+
+.detail__price {
+  color: green;
+  font-weight: 600;
+}
+
+.detail__des {
+  font-size: 15px;
+}
+
+.detail__price-des {
+  font-size: 15px;
+}
+
+.detail__nine-night-price {
+  font-size: 20px;
+}
+
+.detail-btn {
+  width: 210px;
+  border: none;
+  padding: 10px 0px;
+  background-color: rgb(0, 149, 255);
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.flex-item__price {
+  background-color: rgb(0, 149, 255, 0.1);
+  padding: 10px 20px;
+  margin: 0;
+}

@@ -1,0 +1,12 @@
+.navbar-group {
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.navbar {
+  padding: 0 200px;
+  background-color: blue;
+  color: white;
+  padding-bottom: 10px;
+}

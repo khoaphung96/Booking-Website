@@ -1,0 +1,8 @@
+.type-item__image {
+  border-radius: 10px;
+  display: block;
+}
+
+.type-item__count {
+  font-weight: lighter;
+}

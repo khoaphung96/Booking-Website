@@ -1,0 +1,7 @@
+.search-list {
+  width: 750px;
+}
+
+.search-list :last-child {
+  margin-bottom: 0;
+}

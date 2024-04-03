@@ -1,0 +1,23 @@
+.city-item {
+  position: relative;
+  z-index: -1;
+}
+
+.city-item__image {
+  border-radius: 10px;
+  display: block;
+}
+
+.city-item__name {
+  color: white;
+  position: absolute;
+  bottom: 70px;
+  left: 20px;
+}
+
+.city-item__subText {
+  color: white;
+  position: absolute;
+  bottom: 30px;
+  left: 20px;
+}

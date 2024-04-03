@@ -1,0 +1,10 @@
+.navbar-item {
+  display: flex;
+  gap: 10px;
+  padding: 5px;
+}
+
+.borderActive {
+  border: 1px solid white;
+  border-radius: 20px;
+}

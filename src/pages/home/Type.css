@@ -1,0 +1,8 @@
+.type-group {
+  display: flex;
+  justify-content: space-between;
+}
+
+.type-title {
+  margin: 20px 0px;
+}
